@@ -45,6 +45,7 @@ int main() {
     string name;    // 주어진 문자열
     map<char, int> alp_cnt;     // 문자열 내 알파벳과 각각의 개수를 저장하는 맵
     
+    
     // 입력
     cin >> name;
     name_len = name.length();

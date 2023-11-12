@@ -58,6 +58,7 @@ pii makeGroundEven(int n, int m, int b, vector<vector<int>>& ground) {
  * 그 중에서 비용이 최소가 될 때를 찾는다.
  */
 
+
 int main() {
     int n, m, b;
 
